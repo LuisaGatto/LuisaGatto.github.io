@@ -1,0 +1,51 @@
+{
+    "mobile": {
+        "domanda_1" : {
+            "domanda" : "Si spoglia quando fa freddo. Cos’è?",
+            "aiuto" : "No, so a cosa stai pensando, non è Dario, anche se con quel fisico ehehe!Buongustaia! Dai, seriamente, puoi chiedere a lui se non trovi la soluzione",
+            "risposta" : "albero"
+        },
+        "domanda_2" : {
+            "domanda" : "Può essere corretto, anche se non ha fatto nessun errore. Cos’è?",
+            "aiuto" : "Non giungere a conclusioni affrettate, non riguarda Andrea anche se con tutta quella potenza di calcolo AMD è difficile che faccia errori, se hai ancora qualche dubbio chiedi a lui, sicuramente ti saprà rispondere in modo corretto.",
+            "risposta" : "caffè"
+        },
+        "domanda_3" : {
+            "domanda" : "Ha sei facce, ma non può truccarsi ed ha anche ventuno occhi, ma non può vedere? Cos’è?",
+            "aiuto" : "Cosa? Davide ? Certo ha gli occhiali ma non li usa, a volte ha gusti strani ma non si trucca (credo), però se proprio non riesci chiedi consiglio a lui.",
+            "risposta" : "dado"
+        }
+    },
+    "desktop": {
+        "domanda_1" : {
+            "domanda" : "Se pronunci il suo nome, sparisce. Cos’è?",
+            "aiuto" : "Non riesci a non pensare male eh? Albino sparisce per molto meno è vero, ma altre volte è fin troppo presente, ad ogni modo non centra niente con la soluzione, ma è al corrente di tutto se hai qualche dubbio.",
+            "risposta" : "silenzio"
+        },
+        "domanda_2" : {
+            "domanda" : "Più è presente e meno lo vedi. Cos’è?",
+            "aiuto" : "Uffa sempre con questa storia della timidezza di Alfredo, è solo un finto timido, non centra con l'indovinello,MA la soluzione centra con lui e con le voci sul suo conto. Se proprio non trovi soluzione lui è l'uomo giusto al quale chiedere.",
+            "risposta" : "buio"
+        },
+        "domanda_3" : {
+            "domanda" : "È tuo ma lo usano quasi sempre gli altri. Cos’è?",
+            "aiuto" : "No non è Francesco,cioè tu hai un Francesco cioè non Francesco Chiappetta, anche se è il nostro Ciccio, non centra con la soluzione. Ahhh mi sto incartando vero? Che cosa difficile, se hai bisogno chiedi a Francesco, quello giusto però!",
+            "risposta" : "nome"
+        }
+    },
+    "web" : {
+        "domanda_1" : {
+            "domanda" : "Risponde sempre, qualunque lingua tu parli. Chi è?",
+            "aiuto" : "Possibile che non pensi a nient'altro che al cibo ed ai mitici dolci di Vale? Un suo dolce vale mille parole ed a volte si dice che i dolci parlino ma..lo sai già vero? Ormai hai capito, in caso chiedi a Valentina.",
+            "risposta" : "eco"
+        },
+        "domanda_2" : {
+            "domanda" : "Si può vedere ma non fotografare. Cos’è?",
+            "aiuto" : "Ahahah ma che centra la \"vipness\" di Luisa? Ormai è un'influencer famosa, ha portato i prodotti da forno sulla cresta dell'onda, è vero, ma se le chiedi una foto non può dirti di no. In caso chiedile anche una mano per la soluzione.",
+            "risposta" : "sogno"
+        }
+    }
+    
+
+
+}
